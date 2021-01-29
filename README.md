@@ -1,4 +1,4 @@
-# flutterwave intern technica assessment 
+## flutterwave intern technical assessment 
 
 
 
